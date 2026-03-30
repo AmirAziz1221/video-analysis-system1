@@ -1,0 +1,15 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+ultralytics==8.3.8
+python-dotenv==1.0.1
+Pillow==10.4.0
+requests==2.32.3
+openai==1.54.3
+langchain==0.3.7
+langchain-openai==0.2.8
+langchain-community==0.3.7
+google-generativeai==0.8.3
+crewai==0.79.4
